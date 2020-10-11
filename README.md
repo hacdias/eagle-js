@@ -1,5 +1,7 @@
 # Eagle
 
+> This version is defunct and was replaced by a [Go rewritting](https://github.com/hacdias/eagle)!
+
 This powers my website API. It is open-source. However, I won't be supporting other people's use cases as
 this is just a personal project for personal use. If you're interested in doing something similar, I encourage you
 to take a look at the code.
